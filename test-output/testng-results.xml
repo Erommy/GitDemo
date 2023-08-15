@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16570" started-at="2023-04-23T21:44:53 AEST" finished-at="2023-04-23T21:45:09 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16570" started-at="2023-04-23T21:44:53 AEST" finished-at="2023-04-23T21:45:09 AEST">
+      <class name="eromsTe.Appium.AppiumBasics">
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:eromsTe.Appium.AppiumBasics@64f6106c]" name="ConfigureAppium" is-config="true" duration-ms="10195" started-at="2023-04-23T21:44:53 AEST" finished-at="2023-04-23T21:45:03 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="WifiSettingsName()[pri:0, instance:eromsTe.Appium.AppiumBasics@64f6106c]" name="WifiSettingsName" duration-ms="5950" started-at="2023-04-23T21:45:03 AEST" finished-at="2023-04-23T21:45:09 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WifiSettingsName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:eromsTe.Appium.AppiumBasics@64f6106c]" name="tearDown" is-config="true" duration-ms="395" started-at="2023-04-23T21:45:09 AEST" finished-at="2023-04-23T21:45:09 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eromsTe.Appium.AppiumBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
