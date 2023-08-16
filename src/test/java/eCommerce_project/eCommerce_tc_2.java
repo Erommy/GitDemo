@@ -44,5 +44,8 @@ public class eCommerce_tc_2 extends BaseTest{
 		
 		String lastPageProduct = driver.findElement(By.id("com.androidsample.generalstore:id/productName")).getText();
 		Assert.assertEquals(lastPageProduct, "Jordan 6 Rings");
+		
+		// new changes
+		System.out.println("testing changes to git");
 	}
 }

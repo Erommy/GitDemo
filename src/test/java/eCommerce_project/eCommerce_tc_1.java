@@ -22,5 +22,9 @@ public class eCommerce_tc_1 extends BaseTest{
 		Assert.assertEquals(toastMessage, "Please enter your name");
 		System.out.println("Test print stuff");
 		System.out.println("Test print stuff 2");
+		System.out.println("Test print stuff 3");
+		System.out.println("Test print stuff 4");
+		System.out.println("Test print stuff 5");
+		System.out.println("Test print stuff 6");
 	}
 }
