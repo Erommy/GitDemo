@@ -48,4 +48,10 @@ public class eCommerce_tc_2 extends BaseTest{
 		// new changes
 		System.out.println("testing changes to git");
 	}
+	
+	@Test
+	public void GitTest() {
+		System.out.println("testing changes to git develop");
+		System.out.println("testing changes to git dev 2");
+	}
 }
